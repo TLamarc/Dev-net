@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UCA\\ZZ2\\Dev_net\\Bibliotheque\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87702E5C-3182-4518-9277-46FACDC02D5A}|Bibliotheque\\Bibliotheque.csproj|d:\\uca\\zz2\\dev_net\\bibliotheque\\bibliotheque\\cryptage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87702E5C-3182-4518-9277-46FACDC02D5A}|Bibliotheque\\Bibliotheque.csproj|solutionrelative:bibliotheque\\cryptage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87702E5C-3182-4518-9277-46FACDC02D5A}|Bibliotheque\\Bibliotheque.csproj|d:\\uca\\zz2\\dev_net\\bibliotheque\\bibliotheque\\bibliotheque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87702E5C-3182-4518-9277-46FACDC02D5A}|Bibliotheque\\Bibliotheque.csproj|solutionrelative:bibliotheque\\bibliotheque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87702E5C-3182-4518-9277-46FACDC02D5A}|Bibliotheque\\Bibliotheque.csproj|d:\\uca\\zz2\\dev_net\\bibliotheque\\bibliotheque\\categorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87702E5C-3182-4518-9277-46FACDC02D5A}|Bibliotheque\\Bibliotheque.csproj|solutionrelative:bibliotheque\\categorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87702E5C-3182-4518-9277-46FACDC02D5A}|Bibliotheque\\Bibliotheque.csproj|d:\\uca\\zz2\\dev_net\\bibliotheque\\bibliotheque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87702E5C-3182-4518-9277-46FACDC02D5A}|Bibliotheque\\Bibliotheque.csproj|solutionrelative:bibliotheque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87702E5C-3182-4518-9277-46FACDC02D5A}|Bibliotheque\\Bibliotheque.csproj|d:\\uca\\zz2\\dev_net\\bibliotheque\\bibliotheque\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87702E5C-3182-4518-9277-46FACDC02D5A}|Bibliotheque\\Bibliotheque.csproj|solutionrelative:bibliotheque\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87702E5C-3182-4518-9277-46FACDC02D5A}|Bibliotheque\\Bibliotheque.csproj|d:\\uca\\zz2\\dev_net\\bibliotheque\\bibliotheque\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87702E5C-3182-4518-9277-46FACDC02D5A}|Bibliotheque\\Bibliotheque.csproj|solutionrelative:bibliotheque\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87702E5C-3182-4518-9277-46FACDC02D5A}|Bibliotheque\\Bibliotheque.csproj|d:\\uca\\zz2\\dev_net\\bibliotheque\\bibliotheque\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87702E5C-3182-4518-9277-46FACDC02D5A}|Bibliotheque\\Bibliotheque.csproj|solutionrelative:bibliotheque\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87702E5C-3182-4518-9277-46FACDC02D5A}|Bibliotheque\\Bibliotheque.csproj|D:\\UCA\\ZZ2\\Dev_net\\Bibliotheque\\bibliotheque\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87702E5C-3182-4518-9277-46FACDC02D5A}|Bibliotheque\\Bibliotheque.csproj|solutionrelative:bibliotheque\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87702E5C-3182-4518-9277-46FACDC02D5A}|Bibliotheque\\Bibliotheque.csproj|d:\\uca\\zz2\\dev_net\\bibliotheque\\bibliotheque\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87702E5C-3182-4518-9277-46FACDC02D5A}|Bibliotheque\\Bibliotheque.csproj|solutionrelative:bibliotheque\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Livre.cs",
+              "DocumentMoniker": "D:\\UCA\\ZZ2\\Dev_net\\Bibliotheque\\Bibliotheque\\Livre.cs",
+              "RelativeDocumentMoniker": "Bibliotheque\\Livre.cs",
+              "ToolTip": "D:\\UCA\\ZZ2\\Dev_net\\Bibliotheque\\Bibliotheque\\Livre.cs",
+              "RelativeToolTip": "Bibliotheque\\Livre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T11:48:25.628Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cryptage.cs",
+              "DocumentMoniker": "D:\\UCA\\ZZ2\\Dev_net\\Bibliotheque\\Bibliotheque\\Cryptage.cs",
+              "RelativeDocumentMoniker": "Bibliotheque\\Cryptage.cs",
+              "ToolTip": "D:\\UCA\\ZZ2\\Dev_net\\Bibliotheque\\Bibliotheque\\Cryptage.cs",
+              "RelativeToolTip": "Bibliotheque\\Cryptage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T21:07:09.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bibliotheque.cs",
+              "DocumentMoniker": "D:\\UCA\\ZZ2\\Dev_net\\Bibliotheque\\Bibliotheque\\Bibliotheque.cs",
+              "RelativeDocumentMoniker": "Bibliotheque\\Bibliotheque.cs",
+              "ToolTip": "D:\\UCA\\ZZ2\\Dev_net\\Bibliotheque\\Bibliotheque\\Bibliotheque.cs",
+              "RelativeToolTip": "Bibliotheque\\Bibliotheque.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswCgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:57:48.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\UCA\\ZZ2\\Dev_net\\Bibliotheque\\Bibliotheque\\Form1.cs",
+              "RelativeDocumentMoniker": "Bibliotheque\\Form1.cs",
+              "ToolTip": "D:\\UCA\\ZZ2\\Dev_net\\Bibliotheque\\Bibliotheque\\Form1.cs",
+              "RelativeToolTip": "Bibliotheque\\Form1.cs",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAmwLYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T15:53:06.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Categorie.cs",
+              "DocumentMoniker": "D:\\UCA\\ZZ2\\Dev_net\\Bibliotheque\\Bibliotheque\\Categorie.cs",
+              "RelativeDocumentMoniker": "Bibliotheque\\Categorie.cs",
+              "ToolTip": "D:\\UCA\\ZZ2\\Dev_net\\Bibliotheque\\Bibliotheque\\Categorie.cs",
+              "RelativeToolTip": "Bibliotheque\\Categorie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T11:48:31.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\UCA\\ZZ2\\Dev_net\\Bibliotheque\\Bibliotheque\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Bibliotheque\\Form1.Designer.cs",
+              "ToolTip": "D:\\UCA\\ZZ2\\Dev_net\\Bibliotheque\\Bibliotheque\\Form1.Designer.cs",
+              "RelativeToolTip": "Bibliotheque\\Form1.Designer.cs",
+              "ViewState": "AgIAANcAAAAAAAAAAAAlwPcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T15:51:28.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\UCA\\ZZ2\\Dev_net\\Bibliotheque\\Bibliotheque\\Form1.cs",
+              "RelativeDocumentMoniker": "Bibliotheque\\Form1.cs",
+              "ToolTip": "D:\\UCA\\ZZ2\\Dev_net\\Bibliotheque\\Bibliotheque\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Bibliotheque\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T15:43:39.682Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Utilisateur.cs",
+              "DocumentMoniker": "D:\\UCA\\ZZ2\\Dev_net\\Bibliotheque\\Bibliotheque\\Utilisateur.cs",
+              "RelativeDocumentMoniker": "Bibliotheque\\Utilisateur.cs",
+              "ToolTip": "D:\\UCA\\ZZ2\\Dev_net\\Bibliotheque\\Bibliotheque\\Utilisateur.cs",
+              "RelativeToolTip": "Bibliotheque\\Utilisateur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T16:02:14.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UCA\\ZZ2\\Dev_net\\Bibliotheque\\Bibliotheque\\Program.cs",
+              "RelativeDocumentMoniker": "Bibliotheque\\Program.cs",
+              "ToolTip": "D:\\UCA\\ZZ2\\Dev_net\\Bibliotheque\\Bibliotheque\\Program.cs",
+              "RelativeToolTip": "Bibliotheque\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T15:47:30.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
